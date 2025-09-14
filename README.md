@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Gaurav
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Generative AI
+- 🌱 I’m currently working on building projects combining GenAI and Web Development
 
 <!---
 GA00AV/GA00AV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
